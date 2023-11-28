@@ -29,7 +29,7 @@ The Binary Search Tree is a binary tree data structure where each node has at mo
 
 #### `preorder(self)`, `inorder(self)`, `postorder(self)`
 
-- Performs pre-order, in-order, and post-order traversals of the Binary Search Tree, respectively.
+- Performs a print in pre-order, in-order, and post-order traversals of the Binary Search Tree, respectively.
 
 #### `breadth_first_traversal(self)`
 

@@ -1,6 +1,6 @@
 # Binary Search Tree Algorithm
 
-An implementation of a Binary Search Tree (BST) in Python. The BST is a fundamental data structure that provides efficient insertion, deletion, and search operations. This implementation includes a specialized extension, `BinarySearchTree_Particular`, designed to solve a specific problem related to managing records.
+Binary Search Tree is a fundamental data structure that provides efficient insertion, deletion, and search operations. This implementation includes a specialized extension, `BinarySearchTree_Particular`, designed to solve a specific problem related to managing records.
 
 ## Overview
 

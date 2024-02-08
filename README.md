@@ -47,7 +47,7 @@ The BST is a binary tree data structure where each node has at most two children
 
 The specialized extension, `BinarySearchTree_Particular`, addresses a specific problem related to record management. In this scenario, each record has a unique key (e.g., CPF) and a position in a linear data structure. The `BinarySearchTree_Particular` class allows efficient management of records by associating positions with keys.
 
-## Example Usage
+## Usage Example
 
 ```python
 from binary_search_tree import BinarySearchTree, BinarySearchTree_Particular

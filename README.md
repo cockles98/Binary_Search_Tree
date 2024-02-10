@@ -45,7 +45,7 @@ The BST is a binary tree data structure where each node has at most two children
 
 ## Problem Statement
 
-The specialized extension, `BinarySearchTree_Particular`, addresses a specific problem related to record management. In this scenario, each record has a unique key (e.g., CPF) and a position in a linear data structure. The `BinarySearchTree_Particular` class allows efficient management of records by associating positions with keys.
+The specialized extension, `BinarySearchTree_Particular`, addresses a specific problem related to record management where each record has a unique key (CPF - Cadastro de Pessoas Físicas) and position in a linear data structure. The `BinarySearchTree_Particular` class allows efficient management of records by associating positions with keys.
 
 ## Usage Example
 

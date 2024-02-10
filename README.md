@@ -1,6 +1,6 @@
 # Binary Search Tree Algorithm
 
-Binary Search Tree (BST) is a fundamental data structure that provides efficient insertion, deletion, and search operations. This implementation includes a specialized extension, `BinarySearchTree_Particular`, designed to solve a specific problem related to managing records (*check the problem statemant bellow*).
+Binary Search Tree (BST) is a fundamental data structure that provides efficient insertion, deletion, and search operations. This implementation includes a specialized extension, `BinarySearchTree_Particular`, designed to solve a specific problem related to managing records (check the problem statemant bellow).
 
 ## Overview
 

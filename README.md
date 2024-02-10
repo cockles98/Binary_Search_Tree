@@ -4,7 +4,7 @@ Binary Search Tree is a fundamental data structure that provides efficient inser
 
 ## Overview
 
-The BST is a binary tree data structure where each node has at most two children, referred to as the left child and the right child. The left child's key is less than the parent's key, and the right child's key is greater than the parent's key.
+The BST is a data structure where each node has at most two children, referred to as the left child and the right child. The left child's key is less than the parent's key, and the right child's key is greater than the parent's key.
 
 ## BinarySearchTree Class
 
